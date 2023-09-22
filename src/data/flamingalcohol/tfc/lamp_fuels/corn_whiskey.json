@@ -1,0 +1,8 @@
+{
+  "fluid": "tfc:corn_whiskey",
+  "burn_rate": 150,
+  "valid_lamps": {
+    "type": "tfc:tag",
+    "tag": "tfc:lamps"
+  }
+}

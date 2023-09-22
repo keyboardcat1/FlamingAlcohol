@@ -1,0 +1,8 @@
+{
+  "fluid": "tfc:vodka",
+  "burn_rate": 225,
+  "valid_lamps": {
+    "type": "tfc:tag",
+    "tag": "tfc:lamps"
+  }
+}

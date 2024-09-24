@@ -1,6 +1,6 @@
 #!/bin/bash
 project=FlamingAlcohol
-version=1.0
+version=1.21.1-1.0
 
 file=${project}-${version}.jar
 rm -f ${file}
